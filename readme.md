@@ -1,4 +1,5 @@
 # Bangalore Home Price Prediction
+https://real-estate-price-prediction-nbjv.onrender.com/
 
 Predicts residential property prices in Bangalore. Linear regression model served via a Flask API with a vanilla JS frontend.
 
