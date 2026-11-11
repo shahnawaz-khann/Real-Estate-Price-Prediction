@@ -1,0 +1,7 @@
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent / "server"))
+
+from server import app  # noqa: E402
+
